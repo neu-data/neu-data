@@ -103,7 +103,7 @@ Our technical work includes R packages, R Shiny applications, reproducible repor
 
 We welcome collaborations involving statistical consulting, data-system development, research analytics, methodological development, scientific software and professional training.
 
-Visit **[neudata.com](https://neudata.com)** to learn more about our services and partnership opportunities.
+Visit **[www.neu-data.com](https://www.neu-data.com)** to learn more about our services and partnership opportunities.
 
 ---
 
